@@ -52,7 +52,7 @@ This repository contains my OpenCV learning journey based on tutorials from the 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/opencv-tutorials.git
+   git clone https://github.com/lunatic-bot/OpenCV.git
 
 2. Install the required dependencies:
    ```bash
